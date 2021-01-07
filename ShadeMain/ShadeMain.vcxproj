@@ -167,7 +167,14 @@
     <Reference Include="Bunifu.UI.WinForms.1.5.3">
       <HintPath>..\..\..\..\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll</HintPath>
     </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\..\..\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPanel">
+      <HintPath>..\..\..\..\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Core" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
